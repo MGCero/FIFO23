@@ -295,4 +295,4 @@ int main()
 		}
 		
 	}while(op!=6);
-}
+} 
